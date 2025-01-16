@@ -1,6 +1,6 @@
 # Hi there, I'm Pritam 👋
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist and AI Developer with a love for Mathematics, Statistics and a knack for uncovering insights from data. Here you'll find some of my projects, contributions, and interests.
+Welcome to my GitHub profile! I'm a passionate Data Scientist and AI Developer (Soon to be) with a love for Mathematics, Statistics and a knack for uncovering insights from data. Here you'll find some of my projects, contributions, and interests.
 
 ## 🚀 About Me
 

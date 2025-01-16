@@ -1,17 +1,18 @@
+<center>
 # Hi there, I'm Pritam 👋
-
-Welcome to my GitHub profile! I'm a passionate Data Scientist and AI Developer (Soon to be) with a love for Mathematics, Statistics and a knack for uncovering insights from data. Here you'll find some of my projects, contributions, and interests.
+</center>
+Welcome to my GitHub profile! I'm a passionate Data Scientist and AI Developer (Soon to be) with a love for Mathematics and statistics and a knack for uncovering insights from data. Here you'll find some of my projects, contributions, and interests.
 
 ## 🚀 About Me
 
 - 🔭 I’m currently Learning Machine Learning & Advancing my Python skills
 - 🌱 I’m constantly learning and exploring new technologies
-- 🎯 I Love problem solving - Doing DSA (With Python)
+- 🎯 I Love problem-solving - Doing DSA (With Python)
 - 👯 I’m looking to collaborate on open-source data science / Machine learning projects
-- 🕸️ I sometime explore Web Development to know the basics and help in building projects.
-- 💬 Ask me about data science, machine learning, Theoretical statistics and Python.
+- 🕸️ I sometimes explore Web Development to learn the basics and help build projects.
+- 💬 Ask me about data science, machine learning, Theoretical statistics, and Python.
 - 📫 How to reach me: [Email](mailto:contact.with.pritam@gmail.com)
-- ⚡ Secret: I have a Cricketer mindset, I love challenges, I love responsibilities & managing a team, I always work on my weakness and I never give up on a problem.
+- ⚡ Secret: I have a Cricketer mindset, I love challenges, I love responsibilities & managing a team, I always work on my weaknesses and I never give up on a problem.
 
 ## 🛠️ Technologies and Tools
 

@@ -1,6 +1,6 @@
-<center>
-# Hi there, I'm Pritam 👋
-</center>
+
+<h1> <center> Hi there, I'm Pritam 👋 </center> </h1>
+
 Welcome to my GitHub profile! I'm a passionate Data Scientist and AI Developer (Soon to be) with a love for Mathematics and statistics and a knack for uncovering insights from data. Here you'll find some of my projects, contributions, and interests.
 
 ## 🚀 About Me

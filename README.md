@@ -6,7 +6,7 @@
 
 <div class="fonti" style="font-family: 'Orbitron', sans-serif; color: #FFFFFF;">
     <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&color=4066E0&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello,+I'm+Pritam+🤖;An+Aspiring+AI+ML+Scientist;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&color=4066E0&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello,+It's+Pritam+🤖;An+Aspiring+AI+ML+Scientist;" />
     </h1>
     <h3 align="center" style="color: #d2a8ff;">An Aspiring Data Scientist and AI-ML Professional from India</h3>
 </div>
@@ -26,8 +26,9 @@
 - ⚡ **Cricketer Mindset:** Love challenges, responsibilities & never give up!
 
 ---
+## Primary Language : <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="20" height=" 20" />
 
-## Primary Language : <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height=" 40" />
+---
 
 ## Tech Skills & Tools 💻 :
 <p align="center">
@@ -89,15 +90,13 @@
 - [✍️ Blog Post 3](https://yourblog.com/post-3)
 
 ---
-💡 *"Never stop learning, because life never stops teaching."* 🚀✨
-
 
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=40&fontColor=blueviolet&color=39FF14&text=Thank%20You%20for%20Visiting!&reversal=false&section=footer&animation=twinkling&textBg=false" width="100%" />
 
 <div align="center">
-    <h3 align="center" style="font-family: 'Orbitron', monospace; color: #d2a8ff;"> *"Never stop learning, because life never stops teaching."* 🚀 </br>Think Big, Achieve Big.</h3>
+    <h3 align="center" style="font-family: 'Orbitron', monospace; color: #d2a8ff;"> <i>"Never stop learning, because life never stops teaching."</i> 🚀 </br> </br>Think Big, Achieve Big.</h3>
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=Pritam-Stats&label=Profile%20views&theme=radical&color=4066E0&style=round" alt="Profile Views">
   </p>

@@ -4,6 +4,15 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
 </div>
 
+<div class="fonti" style="font-family: 'Orbitron', sans-serif; color: #FFFFFF;">
+    <h1 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&color=4066E0&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Namaste,+I'm+Pritam+🤖;Aspiring+AI+Machine+Learning+Scientist;Welcome!" />
+    </h1>
+    <h3 align="center" style="color: #d2a8ff;">Aspiring Data Scientist and AI-ML Professional from India 🇮🇳 </h3>
+</div>
+
+<div align="left" style="color: #E0E0E0;">
+
 ## 🚀 About Me
 
 - 🔭 I’m currently learning **Machine Learning & Advancing Python skills**
@@ -12,42 +21,58 @@
 - 👯 Looking to **collaborate on open-source AI/ML projects**
 - 🕸️ Exploring **Full-Stack Development for project integration**
 - 📚 Passionate about **Mathematics, Probability & Statistics**
-- 📫 Reach me at: [Email](mailto:contact.with.pritam@gmail.com)
+- 👨‍💻 All of my projects and Learnings are available on [GitHub](https://github.com/Pritam-Stats).<br>
+- 📫 Reach me at: contact.with.pritam@gmail.com
 - ⚡ **Cricketer Mindset:** Love challenges, responsibilities & never give up!
 
 ---
 
-## 🛠️ Technologies and Tools
+### Primary Language - <p> Python <a href="https://skillicons.dev">> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" /> </a> </p>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=ffffff)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=ffffff)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=ffffff)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=ffffff)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=ffffff)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=ffffff)
+### Tech I Explored 💻 :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="60" height="60" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="60" height="60"/>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60"/>
+  </a>
+</p
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pritam-Stats&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam-Stats&theme=radical" alt="GitHub Streak"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-Stats&layout=compact&theme=radical" alt="Top Languages"/>
+### GitHub Stats 📊 :
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-Stats&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=39FF14&text_color=E0E0E0&bg_color=2A2A2A&icon_color=39FF14" alt="Top Languages"><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pritam-Stats&theme=radical&hide_border=false&include_all_commits=true&count_private=false&title_color=39FF14&text_color=E0E0E0&bg_color=2A2A2A&icon_color=39FF14" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam-Stats&theme=radical&hide_border=false&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=E0E0E0&sideLabels=E0E0E0&dates=E0E0E0&background=2A2A2A" alt="GitHub Streak Stats"><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritam-Stats&bg_color=2A2A2A&color=39FF14&line=E0E0E0&point=39FF14&area=true&area_color=E0E0E0&hide_border=false&title_color=39FF14&text_color=E0E0E0" alt="GitHub Activity Graph"><br/>
 </div>
 
 ---
 
-## 🔗 Connect with Me
+### 🔗 **Connect with Me** 🌐 :
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pritamsaha09/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=ffffff)](https://twitter.com/iPritamSaha09)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=ffffff)](https://github.com/Pritam-Stats)
+<div align="center">
+  <a href="https://www.instagram.com/iPritam.09.30/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="31" alt="Instagram logo" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact.with.pritam@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="31" alt="Gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/pritamsaha09/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="31" alt="LinkedIn logo" />
+  </a>
+  <a href="https://twitter.com/iPritamSaha09" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="31" alt="Twitter logo" />
+  </a>
+</div>
+
 
 ---
 
@@ -66,6 +91,21 @@
 - [✍️ Blog Post 3](https://yourblog.com/post-3)
 
 ---
+
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Pritam-Stats&theme=radical&no-frame=true&column=7&title_color=d2a8ff&text_color=E0E0E0&bg_color=2A2A2A" alt="GitHub Profile Trophy">
+    </a>
+  </p>
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=Pritam-Stats&label=Profile%20views&theme=radical&color=4066E0&style=round" alt="Profile Views">
+  </p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=40&fontColor=blueviolet&color=39FF14&text=Thank%20You%20for%20Visiting!&reversal=false&section=footer&animation=twinkling&textBg=false" width="100%" />
+
+
 
 💡 *"Never stop learning, because life never stops teaching."* 🚀✨
 

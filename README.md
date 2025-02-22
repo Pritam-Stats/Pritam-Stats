@@ -6,7 +6,7 @@
 
 <div class="fonti" style="font-family: 'Orbitron', sans-serif; color: #FFFFFF;">
     <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&color=4066E0&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello,+I'm+Pritam+🤖; An+Aspiring+AI+ML+Scientist;"/>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&color=4066E0&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello,+I'm+Pritam+🤖;An+Aspiring+AI+ML+Scientist;" />
     </h1>
     <h3 align="center" style="color: #d2a8ff;">An Aspiring Data Scientist and AI-ML Professional from India</h3>
 </div>
@@ -27,9 +27,9 @@
 
 ---
 
-### Primary Language - <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
+## Primary Language : <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height=" 40" />
 
-### Tech I Learnt 💻 :
+## Tech Skills & Tools 💻 :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
@@ -44,10 +44,8 @@
 
 ---
 
-### 📈 GitHub Stats
-
-### GitHub Stats 📊 :
-<div align="left">
+## GitHub Stats 📊 :
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-Stats&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=39FF14&text_color=E0E0E0&bg_color=2A2A2A&icon_color=39FF14" alt="Top Languages"><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Pritam-Stats&theme=radical&hide_border=false&include_all_commits=true&count_private=false&title_color=39FF14&text_color=E0E0E0&bg_color=2A2A2A&icon_color=39FF14" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam-Stats&theme=radical&hide_border=false&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=E0E0E0&sideLabels=E0E0E0&dates=E0E0E0&background=2A2A2A" alt="GitHub Streak Stats"><br/>
@@ -56,7 +54,7 @@
 
 ---
 
-### 🔗 **Connect with Me** 🌐 :
+## 🔗 **Connect with Me** 🌐 :
 
 <div align="center">
   <a href="https://www.instagram.com/iPritam.09.30/" target="_blank">
@@ -94,13 +92,12 @@
 💡 *"Never stop learning, because life never stops teaching."* 🚀✨
 
 
-Thanks for visiting! Don't forget to ⭐️ some repos if you find them useful!
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=40&fontColor=blueviolet&color=39FF14&text=Thank%20You%20for%20Visiting!&reversal=false&section=footer&animation=twinkling&textBg=false" width="100%" />
 
 <div align="center">
-    <h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #d2a8ff;">Think Big, Achieve Big.</h3>
+    <h3 align="center" style="font-family: 'Orbitron', monospace; color: #d2a8ff;"> *"Never stop learning, because life never stops teaching."* 🚀 </br>Think Big, Achieve Big.</h3>
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=Pritam-Stats&label=Profile%20views&theme=radical&color=4066E0&style=round" alt="Profile Views">
   </p>

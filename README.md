@@ -26,9 +26,8 @@
 - ⚡ **Cricketer Mindset:** Love challenges, responsibilities & never give up!
 
 ---
-## Primary Language : <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="20" height=" 20" />
+## Primary Language : <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="25" height=" 25" />
 
----
 
 ## Tech Skills & Tools 💻 :
 <p align="center">
@@ -58,9 +57,6 @@
 ## 🔗 **Connect with Me** 🌐 :
 
 <div align="center">
-  <a href="https://www.instagram.com/iPritam.09.30/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="31" alt="Instagram logo" />
-  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact.with.pritam@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="31" alt="Gmail logo" />
   </a>
@@ -69,6 +65,9 @@
   </a>
   <a href="https://twitter.com/iPritamSaha09" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="31" alt="Twitter logo" />
+  </a>
+    <a href="https://www.instagram.com/ipritam_0930/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="31" alt="Instagram logo" />
   </a>
 </div>
 
@@ -90,8 +89,6 @@
 - [✍️ Blog Post 3](https://yourblog.com/post-3)
 
 ---
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=40&fontColor=blueviolet&color=39FF14&text=Thank%20You%20for%20Visiting!&reversal=false&section=footer&animation=twinkling&textBg=false" width="100%" />
 

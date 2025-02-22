@@ -6,9 +6,9 @@
 
 <div class="fonti" style="font-family: 'Orbitron', sans-serif; color: #FFFFFF;">
     <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&color=4066E0&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Namaste,+I'm+Pritam+🤖;Aspiring+AI+Machine+Learning+Scientist;Welcome!" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&color=4066E0&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello,+I'm+Pritam+🤖; An+Aspiring+AI+ML+Scientist" />
     </h1>
-    <h3 align="center" style="color: #d2a8ff;">Aspiring Data Scientist and AI-ML Professional from India 🇮🇳 </h3>
+    <h3 align="center" style="color: #d2a8ff;">An Aspiring Data Scientist and AI-ML Professional from India</h3>
 </div>
 
 <div align="left" style="color: #E0E0E0;">
@@ -16,29 +16,29 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently learning **Machine Learning & Advancing Python skills**
+- 📚 Passionate about **Mathematics, Probability & Statistics**
 - 🌱 Constantly exploring new **AI & Data Science technologies**
 - 🎯 Love **Problem-solving & Competitive Programming (Python DSA)**
 - 👯 Looking to **collaborate on open-source AI/ML projects**
 - 🕸️ Exploring **Full-Stack Development for project integration**
-- 📚 Passionate about **Mathematics, Probability & Statistics**
 - 👨‍💻 All of my projects and Learnings are available on [GitHub](https://github.com/Pritam-Stats).<br>
 - 📫 Reach me at: contact.with.pritam@gmail.com
 - ⚡ **Cricketer Mindset:** Love challenges, responsibilities & never give up!
 
 ---
 
-### Primary Language - <p> Python <a href="https://skillicons.dev">> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" /> </a> </p>
+### Primary Language - <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
 
-### Tech I Explored 💻 :
+### Tech I Learnt 💻 :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="60" height="60" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="60" height="60" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60"/>
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="60" height="60"/>
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="60" height="60" />
   </a>
 </p
 
@@ -48,8 +48,8 @@
 
 ### GitHub Stats 📊 :
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-Stats&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=39FF14&text_color=E0E0E0&bg_color=2A2A2A&icon_color=39FF14" alt="Top Languages"><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pritam-Stats&theme=radical&hide_border=false&include_all_commits=true&count_private=false&title_color=39FF14&text_color=E0E0E0&bg_color=2A2A2A&icon_color=39FF14" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-Stats&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=39FF14&text_color=E0E0E0&bg_color=2A2A2A&icon_color=39FF14" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pritam-Stats&theme=radical&hide_border=false&include_all_commits=true&count_private=false&title_color=39FF14&text_color=E0E0E0&bg_color=2A2A2A&icon_color=39FF14" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam-Stats&theme=radical&hide_border=false&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=E0E0E0&sideLabels=E0E0E0&dates=E0E0E0&background=2A2A2A" alt="GitHub Streak Stats"><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritam-Stats&bg_color=2A2A2A&color=39FF14&line=E0E0E0&point=39FF14&area=true&area_color=E0E0E0&hide_border=false&title_color=39FF14&text_color=E0E0E0" alt="GitHub Activity Graph"><br/>
 </div>
@@ -91,22 +91,19 @@
 - [✍️ Blog Post 3](https://yourblog.com/post-3)
 
 ---
+💡 *"Never stop learning, because life never stops teaching."* 🚀✨
+
+<h3 align="center" style="font-family: 'Orbitron', sans-serif; color: #d2a8ff;">Think Big, Achieve Big.</h3>
+
+Thanks for visiting! Don't forget to ⭐️ some repos if you find them useful!
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=40&fontColor=blueviolet&color=39FF14&text=Thank%20You%20for%20Visiting!&reversal=false&section=footer&animation=twinkling&textBg=false" width="100%" />
 
 <div align="center">
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Pritam-Stats&theme=radical&no-frame=true&column=7&title_color=d2a8ff&text_color=E0E0E0&bg_color=2A2A2A" alt="GitHub Profile Trophy">
-    </a>
-  </p>
   <p align="right">
     <img src="https://komarev.com/ghpvc/?username=Pritam-Stats&label=Profile%20views&theme=radical&color=4066E0&style=round" alt="Profile Views">
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&fontSize=40&fontColor=blueviolet&color=39FF14&text=Thank%20You%20for%20Visiting!&reversal=false&section=footer&animation=twinkling&textBg=false" width="100%" />
 
-
-
-💡 *"Never stop learning, because life never stops teaching."* 🚀✨
-
-Thanks for visiting! Don't forget to ⭐️ some repos if you find them useful!

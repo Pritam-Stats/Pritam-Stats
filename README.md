@@ -99,4 +99,6 @@
   </p>
 </div>
 
-
+<p align="center">
+  <img src="pritam-s-logo.png" width="80"/>
+</p>

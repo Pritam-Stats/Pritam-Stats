@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Pritam%20%F0%9F%91%8B&fontSize=40&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Mathematics%20Enthusiast&descSize=20&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Pritam%20%F0%9F%91%8B&fontSize=40&fontAlignY=40&desc=Software%20Engineer&descSize=20&descAlignY=65)
 
 <div align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
@@ -6,7 +6,7 @@
 
 <div class="fonti" style="font-family: 'Orbitron', sans-serif; color: #FFFFFF;">
     <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&color=4066E0&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello,+It's+Pritam+🤖;Software+Engineer+AI+Developer+&+Learner+Math+Stat+CS;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=25&color=4066E0&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello,+It's+Pritam+🤖;Software+Engineer;I+also+learn+about+AI+Math+Stat+CS;" />
     </h1>
     <h3 align="center" style="color: #d2a8ff;">A Software Engineer from India</h3>
 </div>

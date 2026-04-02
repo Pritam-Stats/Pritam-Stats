@@ -13,23 +13,13 @@
 
 <div align="left" style="color: #E0E0E0;">
 
-## 🚀 About Me
 
-- 🔭 I’m currently learning **Machine Learning & Advancing Python skills**
-- 📚 Passionate about **Mathematics, Probability & Statistics**
-- 🌱 Constantly exploring new **AI & Data Science technologies**
-- 🎯 Love **Problem-solving & Competitive Programming (Python DSA)**
-- 👯 Looking to **collaborate on open-source AI/ML projects**
-- 🕸️ Exploring **Full-Stack Development for project integration**
-- 👨‍💻 All of my projects and Learnings are available on [GitHub](https://github.com/Pritam-Stats).<br>
-- 📫 Reach me at: contact.with.pritam@gmail.com
-- ⚡ **Cricketer Mindset:** Love challenges, responsibilities & never give up!
 
 ---
 ## Primary Language : <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="25" height=" 25" />
 
 
-## Tech Skills & Tools 💻 :
+## Tech Skills & Tools:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
@@ -44,7 +34,7 @@
 
 ---
 
-## GitHub Stats 📊 :
+## GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-Stats&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&title_color=39FF14&text_color=E0E0E0&bg_color=2A2A2A&icon_color=39FF14" alt="Top Languages"><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Pritam-Stats&theme=radical&hide_border=false&include_all_commits=true&count_private=false&title_color=39FF14&text_color=E0E0E0&bg_color=2A2A2A&icon_color=39FF14" alt="GitHub Stats">
@@ -54,7 +44,7 @@
 
 ---
 
-## 🔗 **Connect with Me** 🌐 :
+## 🔗 **Connect with Me**:
 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact.with.pritam@gmail.com" target="_blank">
@@ -74,19 +64,13 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-- [🚀 AI Project 1](https://github.com/Pritam-Stats/project-1): Cutting-edge AI/ML model.
-- [📊 Data Science Project 2](https://github.com/Pritam-Stats/project-2): Advanced analytics & visualization.
-- [🌍 Web-Based ML App](https://github.com/Pritam-Stats/project-3): Bringing AI to the web.
 
 ---
 
-## 📝 Recent Blog Posts & Research Papers
+## Recent Blog Posts & Research Papers
 
-- [📖 My First Research Paper](https://drive.google.com/file/d/19OtljXxPtyTdnDfz8oNcvx0kUKZsqKDl/view?usp=drive_link)
-- [📜 Blog Post 2](https://yourblog.com/post-2)
-- [✍️ Blog Post 3](https://yourblog.com/post-3)
 
 ---
 
